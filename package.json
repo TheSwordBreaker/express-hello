@@ -2,10 +2,15 @@
   "name": "express-hello",
   "version": "1.0.0",
   "main": "main.js",
+  "author": "jane-doe",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "engines": {
+      "node": "10.x"
+    },
 }
